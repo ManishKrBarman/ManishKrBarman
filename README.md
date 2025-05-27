@@ -1,5 +1,36 @@
-# 💫 About Me:
-Hi there! Welcome to my GitHub<br><br>I am currently working on:<br>- Full-stack web development projects<br>- Empowering rural artisans and farmers through tech (Project: LokRise)<br>- Building chat applications using Groq AI<br><br>I am looking to collaborate on:<br>- Innovative web or mobile apps that solve real-world problems<br>- Open source projects in the domains of AI, fintech, or e-commerce<br>- Hackathons with meaningful social impact<br><br>I am looking for help with:<br>- Advanced React and state management best practices<br>- Scalable backend architectures (Node.js + MongoDB)<br>- Integrating blockchain-based payment systems<br><br>I am currently learning:<br>- React.js with Context API and Hooks<br>- Firebase Authentication and Firestore<br>- Stellar blockchain for payment solutions<br>- UX/UI best practices for modern interfaces<br><br>Ask me about:<br>- Full-stack development (MERN)<br>- Firebase OTP and email verification flows<br>- Building and deploying React + Express apps<br><br>Fun fact:<br>I enjoy turning complex tech ideas into simple, accessible tools â€” and I once made a button run away when hovered!
+# 💫 About Me
+
+Hi there! 👋 Welcome to my GitHub!
+
+I'm a passionate developer focused on building full-stack solutions and experimenting with cutting-edge AI. Here’s what I’m up to:
+
+### 🚀 Currently Working On
+- 🧑‍💻 Full-stack web development (MERN stack)
+- 🤖 Integrating **Groq AI** for fast, intelligent chat applications
+- 🛒 Creating scalable e-commerce features and user-focused interfaces
+
+### 🤝 Open to Collaborate On
+- 🌍 Innovative web or mobile apps that solve real-world problems
+- 🔓 Open-source projects in **AI**, **fintech**, or **e-commerce**
+- 💡 Hackathons focused on technology for social good
+
+### 🧠 Looking for Guidance In
+- 🌀 Advanced **React.js** patterns and state management (Context API, Redux)
+- 🏗️ Designing scalable backend systems using **Node.js + MongoDB**
+- 🧪 Performance optimization and best practices for production apps
+
+### 📚 Currently Learning
+- ⚛️ React with Hooks and Context API
+- 🔐 Firebase Authentication and Firestore
+- 🎨 UX/UI design principles for intuitive, modern interfaces
+
+### 💬 Ask Me About
+- 🧰 Full-stack development with the **MERN** stack
+- 📲 Implementing OTP and email verification with Firebase
+- 🚀 Building and deploying **React + Express** applications
+
+### 🎉 Fun Fact
+I love turning complex tech into simple tools — and I once built a button that **runs away when hovered over** 😄
 
 
 ## 🌐 Socials:
