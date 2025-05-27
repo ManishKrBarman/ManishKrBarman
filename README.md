@@ -53,6 +53,5 @@ I love turning complex tech into simple tools — and I once built a button that
 [![](https://visitcount.itsvg.in/api?id=manishkrbarman&icon=2&color=2)](https://visitcount.itsvg.in)
 
 
-![Snake animation](https://raw.githubusercontent.com/ManishKrBarman/ManishKrBarman/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
