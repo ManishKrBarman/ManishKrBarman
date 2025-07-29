@@ -73,14 +73,6 @@
 </div>
 
 ---
-<div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=ManishKrBarman&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&count_private=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=ManishKrBarman&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" width="48%" />
-
-</div>
-
----
 
 ## 🔗 SOCIAL MEDIA
 
