@@ -17,49 +17,11 @@
 
 ---
 
-## 💪 SKILL MAP
-
-<div align="center">
-
-```
-        🖥️ FRONTEND 🖥️
-
-    HTML/CSS         ████████████████████░  98%     Tailwind CSS     ███████████████████░░  92%
-    JavaScript       ██████████████████░░░  90%     React.js         █████████████░░░░░░░░  60%
-    React Router     ███████████░░░░░░░░░░  55%
-
-
-        🔧 BACKEND 🔧
-
-    Node.js          ████████████████████░  95%     Express.js       ███████████████████░░  92%
-
-
-        🗄️ DATABASE 🗄️
-
-    MongoDB          ██████████████████░░░  90%     Mongoose         █████████████████░░░░  88%
-
-
-        🛡️ AUTH + DEVOPS 🛠️
-
-    Git & GitHub     ██████████████████░░░  90%     Vercel / Render  █████████████████░░░░  85%
-    Firebase Auth    █████████████░░░░░░░░  70%     JWT / Bcrypt     ████████████░░░░░░░░░  65%
-
-
-        🧠 CORE LANGUAGES 🧠
-
-    C                ████████████████████░  95%     C++              ███░░░░░░░░░░░░░░░░░░  15%
-    Python           █████████████████░░░░  85%
-```
-
-</div>
-
----
-
 ## </> TECH STACK MADNESS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,firebase,kotlin,python,c,cpp,figma,netlify,vercel,vscode,notion&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase,kafka,python,opencv,c,cpp,kotlin,rust,git,github,gitlab,docker,postman,npm,yarn,pnpm,bun,netlify,vercel,figma,vscode,notion&theme=dark&perline=10" />
 
 </div>
 
@@ -77,32 +39,49 @@
 
 ## 🔗 SOCIAL MEDIA
 
-<div>
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722.svg?style=for-the-badge&logo=web&logoColor=white)](https://intmind.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ManishKrBarman)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishkumarbarman111@gmail.com)
+<a href="https://intmind.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722.svg?style=for-the-badge&logo=web&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/ManishKrBarman">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:manishkumarbarman111@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ManishKrBarman/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ManishKrBarman/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/manishkumarbarm2)
-[![Play Store](https://img.shields.io/badge/Google_Play-414141.svg?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=5792144858575749880)
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@manishkumarbarman)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ManishKrBarman)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manishkumarbarman.io)
-
+<a href="https://github.com/ManishKrBarman/">
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://gitlab.com/manishkumarbarman111">
+  <img src="https://img.shields.io/badge/GitLab-Profile-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/ManishKrBarman/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/profile/manishkumarbarm2">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+<a href="https://codeforces.com/profile/ManishKrBarman">
+  <img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+<a href="https://www.youtube.com/@manishkumarbarman">
+  <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://x.com/ManishKrBarman">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/manishkumarbarman.io">
+  <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 </div>
 
 ---
-## ⓘ RANDOM DEVELOPER FACTS
 
-<div>
+<div align="center">
 
-- 🕰️ I've spent many hours debugging this year
-- 🌙 Most of my commits happen after midnight
-- 🎵 Lines of code written while listening to lo-fi
-- 💡 Ideas came in the shower
+### *"Code is poetry, bugs are modern art, and coffee is life fuel"*
 
 </div>
 
@@ -115,17 +94,6 @@
 
 ---
 ---
-
-<div align="center">
-
-### *"Code is poetry, bugs are modern art, and coffee is life fuel"*
-
-**🌟 Let's build something incredible together! 🌟**
-
-</div>
-
----
-
 <div>
 
 ![Snake eating my contributions](https://raw.githubusercontent.com/ManishKrBarman/ManishKrBarman/output/github-contribution-grid-snake.svg)
